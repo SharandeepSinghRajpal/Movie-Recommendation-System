@@ -17,4 +17,3 @@ The Python Libraries used to build this model are:
 
 Note: This Model can be upgraded to be used for applications like Netflix, Amazon, and other OTT platforms where the dataset is continuously updated.
 
-Clone this repository: git clone https://github.com/AdityaSanap1821/Movie-Recommendation-System.git
